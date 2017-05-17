@@ -1,2 +1,2 @@
 // App's entry point
-require("./app/index");
+require("./app/fileReader");
