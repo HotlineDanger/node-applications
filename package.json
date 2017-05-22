@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/HotlineDanger/node-applications#readme",
   "dependencies": {
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
